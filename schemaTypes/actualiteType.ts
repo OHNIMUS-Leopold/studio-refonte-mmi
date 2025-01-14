@@ -20,5 +20,11 @@ export const actualiteType = defineType({
       type: "text",
       validation: (rule) => rule.required(),
     }),
+    defineField({
+      name: 'publishedAt',
+      type: 'datetime',
+      initialValue: () => new Date().toISOString(),
+      validation: (rule) => rule.required(),
+    }),
   ],
 });
