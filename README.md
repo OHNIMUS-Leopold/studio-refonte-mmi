@@ -1,9 +1,5 @@
-# Sanity Clean Content Studio
+# Département MMI de Montbéliard – Backend Sanity
 
-Congratulations, you have now installed the Sanity Content Studio, an open-source real-time content editing environment connected to the Sanity backend.
+Ce dépôt contient la structure de la base de données Sanity utilisée pour gérer le contenu du [site du Département MMI (Métiers du Multimédia et de l'Internet)](https://mmi.leopold-ohnimus.fr/).
 
-Now you can do the following things:
-
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+Ce backend permet de gérer dynamiquement les formations, les projets étudiants, les actualités, et autres contenus affichés sur le site.
